@@ -1,5 +1,7 @@
 # Math Sprint Game
 
+### **[Live Site](https://tprafke.github.io/math-sprint-game/)**
+
 ## Description
 
 A simple math sprint game built using JavaScript, HTML, and CSS. 
